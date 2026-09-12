@@ -42,6 +42,6 @@ I'm a Data Analytics professional with experience analyzing financial, business,
 https://www.linkedin.com/in/gagandeep-kaur-258ba1219/ 
 
 
-📧 Email: your-email@example.com
+📧 Email: your-garchagagan037@gmail.com
 
 🔗 LinkedIn: Your LinkedIn Profile

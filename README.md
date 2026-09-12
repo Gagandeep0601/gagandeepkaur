@@ -39,9 +39,7 @@ I'm a Data Analytics professional with experience analyzing financial, business,
 - Data Engineering
 
 ### 📫 Contact
+📧 Email: garchagagan037@gmail.com
+
+🔗 LinkedIn: 
 https://www.linkedin.com/in/gagandeep-kaur-258ba1219/ 
-
-
-📧 Email: your-garchagagan037@gmail.com
-
-🔗 LinkedIn: Your LinkedIn Profile

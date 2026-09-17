@@ -45,13 +45,13 @@ Git • Azure DevOps • Jira • Microsoft Excel
 
 # 📌 Featured Projects
 
-## 🏦 Loan Portfolio & Risk Analytics
+## 🏦 Risk-Management-Portfolio
 
-Analyzed loan portfolio, repayment, delinquency, financial performance, and risk indicators using SQL and Power BI.
+End-to-end Banking Risk Analytics solution using Azure Data Factory, Azure SQL Database, and Power BI to automate ETL pipelines, transform banking data, and deliver interactive dashboards for loan, deposit, and client risk analysis.
 
-**Tools:** SQL • Power BI • DAX • Azure SQL
+**Tools:** SQL • Power BI • DAX • Azure SQL • Azure Data Factory
 
-➡️ [View Project](#)
+➡️ [View Project]   https://github.com/Gagandeep0601/Risk-Management-Portfolio.git
 
 ---
 

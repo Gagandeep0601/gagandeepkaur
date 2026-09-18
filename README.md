@@ -71,27 +71,7 @@ Azure Data Factory ETL pipeline for automated sales data transformation, USD cur
 
 **Tools:** Power BI • DAX • SQL  • Azure SQL • Azure Data Factory
 
-➡️ [View Project](#)
-
----
-
-## 🔎 Data Quality & Reconciliation
-
-SQL-based data quality project demonstrating null checks, duplicate detection, validation, source-to-target reconciliation, and discrepancy analysis.
-
-**Tools:** SQL • Excel • Power BI
-
-➡️ [View Project](#)
-
----
-
-## ☁️ Azure Incremental Data Pipeline
-
-End-to-end Azure Data Factory pipeline demonstrating incremental data loading using a watermark-based approach.
-
-**Tools:** Azure Data Factory • Azure SQL • SQL • Power BI
-
-➡️ [View Project](#)
+➡️ [View Project]  https://github.com/Gagandeep0601/Sales-Analysis.git
 
 ---
 

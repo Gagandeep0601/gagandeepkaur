@@ -59,17 +59,17 @@ End-to-end Banking Risk Analytics solution using Azure Data Factory, Azure SQL D
 
 Analyzed marketplace transactions, revenue, demand patterns, customer activity, and operational KPIs to identify business trends and improvement opportunities.
 
-**Tools:** SQL • Power BI • Excel
+**Tools:** SQL • Power BI • Excel • Azure SQL • Azure Data Factory
 
 ➡️ [View Project]  https://github.com/Gagandeep0601/Healthcare-Insights..git
 
 ---
 
-## 💰 Financial Performance Dashboard
+## 💰 Sales Analysis Dashboard
 
-Interactive Power BI dashboard for analyzing financial performance, revenue trends, KPIs, and business metrics.
+Azure Data Factory ETL pipeline for automated sales data transformation, USD currency conversion, and Power BI reporting.
 
-**Tools:** Power BI • DAX • SQL
+**Tools:** Power BI • DAX • SQL  • Azure SQL • Azure Data Factory
 
 ➡️ [View Project](#)
 

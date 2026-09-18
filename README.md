@@ -61,7 +61,7 @@ Analyzed marketplace transactions, revenue, demand patterns, customer activity, 
 
 **Tools:** SQL • Power BI • Excel
 
-➡️ [View Project](#)
+➡️ [View Project]  https://github.com/Gagandeep0601/Healthcare-Insights..git
 
 ---
 

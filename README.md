@@ -57,7 +57,7 @@ End-to-end Banking Risk Analytics solution using Azure Data Factory, Azure SQL D
 
 ## 🏥 Healthcare Insights.
 
-Analyzed marketplace transactions, revenue, demand patterns, customer activity, and operational KPIs to identify business trends and improvement opportunities.
+Built an Azure-based healthcare analytics pipeline using ADF, Azure SQL, and Power BI with watermark-driven incremental loads and MERGE/Upsert processing for automated reporting
 
 **Tools:** SQL • Power BI • Excel • Azure SQL • Azure Data Factory
 
